@@ -1,55 +1,55 @@
-# 🌌 Complete Solar System - Quick Reference
+# Complete Solar System - Quick Reference
 
-## 🪐 All 9 Celestial Bodies
+## All 9 Celestial Bodies
 
-### ☀️ **Sun** (Star)
+### **Sun** (Star)
 - Mass: 1.989 × 10³⁰ kg
 - Color: Golden yellow with bright glow
 - Position: Center of the solar system
 
-### ☿️ **Mercury**
+### **Mercury**
 - Mass: 3.285 × 10²³ kg
 - Color: Gray (rocky surface)
 - Orbital period: ~88 Earth days
 
-### ♀️ **Venus**
+### **Venus**
 - Mass: 4.867 × 10²⁴ kg
 - Color: Bright yellowish (thick atmosphere)
 - Orbital period: ~225 Earth days
 
-### 🌍 **Earth**
+### **Earth**
 - Mass: 5.972 × 10²⁴ kg
 - Color: Beautiful blue (oceans)
 - Orbital period: 365 Earth days
 
-### ♂️ **Mars**
+### **Mars**
 - Mass: 6.39 × 10²³ kg
 - Color: Red (iron oxide)
 - Orbital period: ~687 Earth days
 
-### ♃ **Jupiter**
+### **Jupiter**
 - Mass: 1.898 × 10²⁷ kg (largest planet)
 - Color: Brown/tan with bands
 - Orbital period: ~12 Earth years
 
-### ♄ **Saturn**
+### **Saturn**
 - Mass: 5.683 × 10²⁶ kg
 - Color: Pale yellow (beautiful rings)
 - Orbital period: ~29 Earth years
 
-### ⛢ **Uranus**
+### **Uranus**
 - Mass: 8.681 × 10²⁵ kg
 - Color: Blue-green (ice giant)
 - Orbital period: ~84 Earth years
 
-### ♆ **Neptune**
+### **Neptune**
 - Mass: 1.024 × 10²⁶ kg
 - Color: Deep blue (ice giant)
 - Orbital period: ~165 Earth years
 
 ---
 
-## 📷 Camera Preset Views
+## Camera Preset Views
 
 ### **1 - Perspective View** (Default)
 - **Position**: (0, 120, 300)
@@ -73,7 +73,7 @@
 
 ---
 
-## 🌊 Spacetime Curvature
+## Spacetime Curvature
 
 ### How It Works
 The grid visualizes Einstein's general relativity:
@@ -95,16 +95,16 @@ The grid visualizes Einstein's general relativity:
 
 ---
 
-## 🎮 Complete Controls Reference
+## Complete Controls Reference
 
-### 🖱️ Mouse Controls
+### Mouse Controls
 | Action | Control |
 |--------|---------|
 | **Rotate Camera** | Left-click + Drag |
 | **Zoom In** | Mouse Wheel Up |
 | **Zoom Out** | Mouse Wheel Down |
 
-### ⌨️ Keyboard Controls
+### Keyboard Controls
 
 #### Simulation
 | Key | Action |
@@ -118,10 +118,10 @@ The grid visualizes Einstein's general relativity:
 #### Camera Movement
 | Key | Action |
 |-----|--------|
-| **←** | Rotate left |
-| **→** | Rotate right |
-| **↑** | Rotate up |
-| **↓** | Rotate down |
+| **Left Arrow** | Rotate left |
+| **Right Arrow** | Rotate right |
+| **Up Arrow** | Rotate up |
+| **Down Arrow** | Rotate down |
 | **+** or **=** | Zoom in |
 | **-** or **_** | Zoom out |
 
@@ -134,7 +134,7 @@ The grid visualizes Einstein's general relativity:
 
 ---
 
-## 🎨 Visual Features
+## Visual Features
 
 ### Lighting System
 - **Ambient**: 15% base light
@@ -160,7 +160,7 @@ Each planet has realistic colors:
 
 ---
 
-## 🔬 Physics Accuracy
+## Physics Accuracy
 
 ### Gravitational Forces
 - Uses Newton's law: `F = G × m₁ × m₂ / r²`
@@ -179,7 +179,7 @@ Each planet has realistic colors:
 
 ---
 
-## 💡 Tips for Best Experience
+## Tips for Best Experience
 
 ### Viewing Planets
 1. **Start with Perspective** (press 1)
@@ -206,7 +206,7 @@ Each planet has realistic colors:
 
 ---
 
-## 🌟 Fun Facts
+## Fun Facts
 
 - **Jupiter** is so massive it creates a visible gravity well
 - **Neptune** takes 165 years to orbit the sun!
@@ -216,4 +216,4 @@ Each planet has realistic colors:
 
 ---
 
-**Enjoy exploring our solar system! 🚀✨**
+**Enjoy exploring our solar system!**
